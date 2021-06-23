@@ -1,7 +1,7 @@
-# recipe-app
+# Food Recipe
 Food Recipe application to add, update, delete the recipe
 
-## Recipe-app
+## Food Recipe
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
@@ -23,6 +23,7 @@ When the user selects a recipe the application should display on the same screen
 * Junit5
 * JWT Token Authentication
 * Swagger 2
+* Docker
 
 ## Setup
 ### Build the Application
