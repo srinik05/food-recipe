@@ -20,7 +20,7 @@ When the user selects a recipe the application should display on the same screen
 * Spring Boot 2.4.5
 * Rest API
 * Maven
-* Junit5
+* Junit5 Mockito
 * JWT Token Authentication
 * Swagger 2
 * Docker
